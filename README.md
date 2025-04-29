@@ -13,6 +13,8 @@ This project implements a simple Recurrent Neural Network (RNN) from scratch usi
   - `W2`: Hidden to hidden weights
   - `W3`: Hidden to output weights
   - `b1`, `b2`: Bias terms
+  - ![image](https://github.com/user-attachments/assets/d3aff5db-7064-46ad-aaed-55af49194f2b)
+
 
 ## 🔁 Training
 - The model uses manual backpropagation through time (BPTT).
